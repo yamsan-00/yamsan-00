@@ -7,7 +7,7 @@
   >|
   >Rescearch
 
-- 🌱 I’m currently:
+- 🌱 currently:
   >machine learning
   >|
   >quantum theory
