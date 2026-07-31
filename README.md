@@ -99,19 +99,7 @@
 ```
 ┌────────────────────────────────────────────────────────────────────┐
 │ INSTITUTION: D Y Patil International University                    │
-│ PROGRAM:     B.Tech CSE (Specialization: AIML)                    │
-│ LOCATION:    Pune, Maharashtra, India [Layer 01]                  │
-│ PERIOD:      2023-08 → PRESENT                                    │
-│ CGPA:        8.5+ / 10.0                                          │
-│ STATUS:      [===========>................] 60% COMPLETE           │
-├────────────────────────────────────────────────────────────────────┤
-│ MODULES_LOADED:                                                    │
-│   [✓] QUANTUM_COMPUTING        [✓] LINEAR_ALGEBRA                 │
-│   [✓] PROBABILITY_STATISTICS   [✓] DIFFERENTIAL_EQUATIONS         │
-│   [✓] DISCRETE_MATHEMATICS     [✓] GRAPH_THEORY                   │
-│   [✓] COMPUTER_VISION          [✓] MACHINE_LEARNING               │
-│   [✓] DEEP_LEARNING            [✓] NLP                            │
-│   [✓] ELECTRONICS_CIRCUITS     [✓] DATABASE_SYSTEMS               │
+│ PROGRAM:     B.Tech CSE (Specialization: AIML)                     │
 └────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -124,25 +112,6 @@
 └─$ cat /var/log/awards.log
 ```
 
-</div>
-
-```
-[2026-03] ███ BEST_RESEARCHER_AWARD_2025_26
-          │   Institution: D Y Patil International University
-          │   Event: 8th Foundation Day
-          │   Status: UNLOCKED ✓
-
-[2026-03] ███ TIH_IoT_CHANAKYA_FELLOWSHIP
-          │   Authority: TIH Foundation for IoT & IoE, IIT Bombay
-          │   Program: DST NM-ICPS
-          │   Grant: ₹2,40,000 (10 months)
-          │   Status: ACTIVE ▶
-
-[2026]    ███ RESEARCH_GRANT_NISQ_QEC
-          │   Project: Topological Quantum Error Correction
-          │   Funding: University R&D Cell
-          │   Status: IN_PROGRESS ▶
-```
 
 ---
 
