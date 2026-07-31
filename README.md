@@ -18,7 +18,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=16&duration=2000&pause=0&color=00FFFF&center=true&vCenter=true&width=400&lines=Sanyam+Rajput;Quantum+Researcher;Observer+in+The+Wired;Where+Am+I%3F;Who+Am+I%3F" alt="Identity Query" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=16&duration=2000&pause=0&color=00FFFF&center=true&vCenter=true&width=400&lines=Sanyam+Rajput;Quantum+Researcher;Mathematics;Physics" alt="Identity Query" />
 </p>
 
 <div align="center">
@@ -84,8 +84,6 @@
 │  ARTIFICIAL INTELLIGENCE / ML       ████████████████░░░░  80%   │
 └─────────────────────────────────────────────────────────────────┘
 ```
-
-> **"No matter where you go, everyone's connected."** — Lain Iwakura
 
 ---
 
@@ -203,160 +201,6 @@
 
 ```bash
 ┌──[lain@the-wired:~]──[~/identity]
-└─$ cat /var/log/research.log
-```
-
-</div>
-
-```
-┌─[RESEARCH_JOB_001]──────────────────────────────────────────────┐
-│ ID:           UG_RES_GRAPH_THEORY_2024                          │
-│ TITLE:        Applied Graph Theory - Teacher-Student Networks   │
-│ VENUE:        67th Annual IETE Convention (AIC)                 │
-│ PERIOD:       2024-06 → 2024-09                                 │
-│ LOCATION:     Pune, India [Layer 01]                            │
-│ STATUS:       COMPLETED ✓                                       │
-│                                                                 │
-│ OBJECTIVE:  Optimize interaction networks via flow simulation  │
-│ METHOD:     Graph-theoretic model + Statistical analysis       │
-│ RESULT:     Improved engagement metrics                        │
-│ OUTPUT:     Conference presentation (Sep 14-15, 2024)          │
-│ THEME:      "Emerging Technologies and Applications"            │
-└──────────────────────────────────────────────────────────────────┘
-
-┌─[RESEARCH_JOB_002]──────────────────────────────────────────────┐
-│ ID:           INTERN_NIT_SILCHAR_2026                           │
-│ TITLE:        Research Intern                                   │
-│ INSTITUTION:  National Institute of Technology Silchar          │
-│ PERIOD:       2026-05 → 2026-07                                 │
-│ LOCATION:     Assam, India [Layer 01]                           │
-│ STATUS:       COMPLETED ✓                                       │
-└──────────────────────────────────────────────────────────────────┘
-
-┌─[RESEARCH_JOB_003]──────────────────────────────────────────────┐
-│ ID:           FUNDED_NISQ_QEC_2026                              │
-│ TITLE:        Topological Quantum Error Correction for NISQ     │
-│ FUNDING:      ₹2,40,000 (DST NM-ICPS + University R&D)          │
-│ PERIOD:       2026-04 → PRESENT                                 │
-│ LOCATION:     D Y Patil International University, Pune          │
-│ STATUS:       RUNNING ▶                                         │
-│                                                                 │
-│ TARGET:       Variational Quantum Error Decoder (VQED)         │
-│ CODE:         Surface Codes + VQA + Parameterized Circuits     │
-│ BENCHMARK:    10-30% improvement over MWPM decoder             │
-│ HARDWARE:     IBM Quantum / Rigetti NISQ devices               │
-│ PROGRESS:     [=======>........................] 25%            │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-> **"The Wired is not just a network. It's a world."** — Lain Iwakura
-
----
-
-<div align="center">
-
-```bash
-┌──[lain@the-wired:~]──[~/identity]
-└─$ cat /var/log/experience.log
-```
-
-</div>
-
-```
-┌─[JOB_ML_ENGINEER_INTERN]────────────────────────────────────────┐
-│ COMPANY:    Logituit                                            │
-│ ROLE:       Machine Learning Engineer Intern                    │
-│ PERIOD:     2025-05 → 2025-07                                   │
-│ LOCATION:   Pune, India [Layer 01]                              │
-│ STATUS:     COMPLETED ✓                                         │
-│                                                                 │
-│ STACK:                                                           │
-│   ████████████████████  LANGGRAPH  (Multi-agent workflows)     │
-│   ████████████████████  LANGCHAIN  (Custom agents & tools)     │
-│   ████████████████████  LLMs       (Recommendation engine)     │
-│   ██████████████████░░  PYTHON     (Backend & deployment)      │
-│                                                                 │
-│ DELIVERABLES:                                                    │
-│   [✓] LLM-powered movie recommendation system                  │
-│   [✓] Agent workflows for multi-step reasoning                 │
-│   [✓] Custom agents for dynamic dataset interaction            │
-│   [✓] Memory & preference tracking subsystem                   │
-│   [✓] Modular, scalable architecture                           │
-└──────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-```bash
-┌──[lain@the-wired:~]──[~/identity]
-└─$ ls -la /projects/
-```
-
-</div>
-
-```
-┌─[PROJECT_001]───────────────────────────────────────────────────┐
-│ NAME:    THREE_BODY_PROBLEM_SIMULATION                          │
-│ DATE:    2025-02                                                │
-│ LANG:    Python (stdlib only - no external deps)               │
-│                                                                 │
-│ SPECS:                                                           │
-│   • Numerical integration (Runge-Kutta 4th order)              │
-│   • Chaos theory visualization                                 │
-│   • Parameter space exploration                                │
-│   • Lyapunov exponent calculation                              │
-│ STATUS:  ARCHIVED ✓                                             │
-└──────────────────────────────────────────────────────────────────┘
-
-┌─[PROJECT_002]───────────────────────────────────────────────────┐
-│ NAME:    AATOM_AIR_QUALITY_LUNG_HEALTH                          │
-│ TYPE:    IoT + ML Embedded System                               │
-│                                                                 │
-│ SPECS:                                                           │
-│   • Real-time AQI monitoring (PM2.5, PM10, CO2, VOC)          │
-│   • Lung health predictive model (CNN + sensor fusion)         │
-│   • Hazard alert system (threshold + ML anomaly detection)     │
-│   • Accuracy: 70-80% on validation set                         │
-│   • Hardware: ESP32 + sensor array + mobile app                │
-│ STATUS:  DEPLOYED ▶                                             │
-└──────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-```bash
-┌──[lain@the-wired:~]──[~/identity]
-└─$ cat /etc/leadership.conf
-```
-
-</div>
-
-```
-┌─[ROLE_VP_TREASURY]──────────────────────────────────────────────┐
-│ TITLE:    Vice President of Treasury                            │
-│ ORG:      Student Council, DYPIU                                │
-│ PERIOD:   2024 → PRESENT                                        │
-│ PERMS:    [BUDGET_MGMT][FUND_ALLOCATION][AUDIT][REPORTING]      │
-└──────────────────────────────────────────────────────────────────┘
-
-┌─[ROLE_CO_CONVENER]──────────────────────────────────────────────┐
-│ TITLE:    Co-Convener                                           │
-│ ORG:      CodeDecode Club, DYPIU                                │
-│ PERIOD:   2024 → PRESENT                                        │
-│ PERMS:    [EVENT_MGMT][WORKSHOPS][HACKATHONS][MENTORING]        │
-└──────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-```bash
-┌──[lain@the-wired:~]──[~/identity]
 └─$ systemctl status github_metrics
 ```
 
@@ -423,21 +267,6 @@
   <a href="mailto:sanyamrajput1213@gmail.com"><img src="https://img.shields.io/badge/MAIL-sanyamrajput1213%40gmail.com-00FFFF?style=for-the-badge&logo=gnu-bash&logoColor=00FFFF&labelColor=000000&color=000000" alt="Email"></a>
   <a href="https://linkedin.com/in/sanyam-rajput"><img src="https://img.shields.io/badge/LINKEDIN-sanyam--rajput-00FFFF?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=000000&color=000000" alt="LinkedIn"></a>
   <a href="https://github.com/yamsan-00"><img src="https://img.shields.io/badge/GITHUB-yamsan--00-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=000000&color=000000" alt="GitHub"></a>
-</p>
-
----
-
-<div align="center">
-
-```bash
-┌──[lain@the-wired:~]──[~/identity]
-└─$ fortune -e lain | cowsay -f tux
-```
-
-</div>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="System Quote" />
 </p>
 
 ---
