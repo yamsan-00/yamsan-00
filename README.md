@@ -1,4 +1,3 @@
-<p> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl0ZGplczJlOW93cGMyajVwcHZocmNpcnNmcnpnYXJ6ajZ1ZnkyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xg2jowPlHhIp4koVAm/giphy.gif" width="3000" alt="GIF 3"> </p>
 
 # Sanyam Rajput
 
