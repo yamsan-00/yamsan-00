@@ -1,16 +1,24 @@
 [<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/yamsan-00/yamsan-00/main/metrics/general.svg">](#)
 [<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/yamsan-00/yamsan-00/main/metrics/languages.svg">](#)
 
-[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/yamsan-00/yamsan-00/main/metrics/habits.svg">](#)
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/yamsan-00/yamsan-00/main/metrics/achievements.svg">](#)
-
 [<img width="100%" height="1" alt="🦑" src="https://raw.githubusercontent.com/yamsan-00/yamsan-00/main/metrics/placeholder.svg">](#)
 
-[<img align="right" alt="🦑" src="https://raw.githubusercontent.com/yamsan-00/yamsan-00/main/metrics/activity.svg">](#)
-[<img align="right" alt="🦑" src="https://raw.githubusercontent.com/yamsan-00/yamsan-00/main/metrics/followers.svg">](#)
-
-[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/yamsan-00/yamsan-00/main/metrics/lines.svg">](#)
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/yamsan-00/yamsan-00/main/metrics/stars.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/yamsan-00/yamsan-00/main/metrics/habits.svg">](#)
 
 ---
 
+**Quantum Information & Communication Researcher | Mathematical Physicist**
+
+- B.Tech CSE (Specialization: AIML) — Quantum Communication + Quantum Information
+- Pune, India
+- Hobbies: gaming, reading manga, anime (SAO, Steins;Gate, Cyberpunk Edgerunners, Serial Experiments Lain), music
+
+<p align="center">
+<a href="mailto:sanyamrajput1213@gmail.com"><img src="https://img.shields.io/badge/MAIL-sanyamrajput1213%40gmail.com-05D9E8?style=for-the-badge&logo=gnu-bash&logoColor=05D9E8&labelColor=000000&color=000000" alt="Email"></a>
+<a href="https://linkedin.com/in/sanyam-rajput"><img src="https://img.shields.io/badge/LINKEDIN-sanyam--rajput-FF2A6D?style=for-the-badge&logo=linkedin&logoColor=FF2A6D&labelColor=000000&color=000000" alt="LinkedIn"></a>
+<a href="https://github.com/yamsan-00"><img src="https://img.shields.io/badge/GITHUB-yamsan--00-FFC100?style=for-the-badge&logo=github&logoColor=FFC100&labelColor=000000&color=000000" alt="GitHub"></a>
+</p>
+
+---
+
+<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
