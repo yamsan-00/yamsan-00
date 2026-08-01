@@ -28,6 +28,36 @@
 <div align="center">
 
 ```bash
+┌──[lain@the-wired:~]──[~/sysinfo]
+└─$ neofetch --ascii_distro arch
+
+                              sanyam@the-wired
+       /\                     ───────────────
+      /  \        /\           OS: Arch Linux x86_64
+     /    \      /  \          Host: HandyNAVI v7.0
+    /      \    /    \         Kernel: 6.10.3-arch1-1
+   /   /\   \  /      \        Uptime: ∞ days
+  /   /  \   \/   /\   \       Shell: zsh 5.9
+ /   /    \   /\ /  \   \      DE: Hyprland
+/___/      \_/  Y    \___\     WM: Hyprland (Wayland)
+\   \      /    |        /     Terminal: kitty
+ \   \    /     |       /      CPU: AMD Ryzen 7 (16) @ 4.5GHz
+  \   \  /      |      /       GPU: NVIDIA RTX Series
+   \   \/       |     /        Memory: 16384MiB / 32768MiB
+    \   /\      |    /
+     \ /  \     |   /
+      \    \    |  /
+       \/\/    \  /
+                \/
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
 ┌──[lain@the-wired:~]──[~/identity]
 └─$ whoami
 
