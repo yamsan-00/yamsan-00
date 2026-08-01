@@ -7,9 +7,7 @@
 <img src="https://media.giphy.com/media/GfGva4vGq4qNsUf4N9/giphy.gif" width="500" alt="Matrix GIF">
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/X56gv3AGrwOI3VzWwl/giphy.gif" width="500" alt="Blade Runner City">
-</p>
+
 
 ---
 
@@ -51,6 +49,11 @@
 </p>
 
 ---
+<p align="center">
+<img src="https://media.giphy.com/media/X56gv3AGrwOI3VzWwl/giphy.gif" width="500" alt="Blade Runner City">
+</p>
+---
+
 
 <div align="center">
 
