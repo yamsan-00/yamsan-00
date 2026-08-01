@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl0ZGplczJlOW93cGMyajVwcHZocmNpcnNmcnpnYXJ6ajZ1ZnkyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xg2jowPlHhIp4koVAm/giphy.gif" width="200" alt="GIF 3">
+  
+</p>
+
 # Sanyam Rajput
 
 **B.Tech CSE (AIML) | Quantum Computing Researcher**
@@ -9,7 +14,6 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dqanFyeWJlNGZ3cTE1d21tMGsxajVra3ZibzJ2ZGNuNmlrNHFmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/40Lp2KJ5zagkjrnp7h/giphy.gif" width="200" alt="GIF 1">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGh3cjBxOHR6OWQ0MDl0dGY1MHRwMXg4eHRoYm9wZDBocXpsYmZ4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHBGehJ3FSZEygszX3/giphy.gif" width="200" alt="GIF 2">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl0ZGplczJlOW93cGMyajVwcHZocmNpcnNmcnpnYXJ6ajZ1ZnkyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xg2jowPlHhIp4koVAm/giphy.gif" width="200" alt="GIF 3">
 </p>
 
 <p align="center">
