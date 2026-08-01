@@ -3,13 +3,9 @@
 
 [<img width="100%" height="1" alt="🦑" src="https://raw.githubusercontent.com/yamsan-00/yamsan-00/main/metrics/placeholder.svg">](#)
 
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/yamsan-00/yamsan-00/main/metrics/habits.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/yamsan-00/yamsan-00/main/metrics/hobbies.svg">](#)
 
 ---
-
-<p align="center">
-<sub>gaming | manga | anime (SAO, Steins;Gate, Cyberpunk Edgerunners, Serial Experiments Lain) | music</sub>
-</p>
 
 <p align="center">
 <a href="mailto:sanyamrajput1213@gmail.com"><img src="https://img.shields.io/badge/MAIL-sanyamrajput1213%40gmail.com-05D9E8?style=for-the-badge&logo=gnu-bash&logoColor=05D9E8&labelColor=000000&color=000000" alt="Email"></a>
@@ -19,4 +15,4 @@
 
 ---
 
-<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+<sub>Profile cards — cyberpunk neon edition, hand-crafted for the mainframe.</sub>
