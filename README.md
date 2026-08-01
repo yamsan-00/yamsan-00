@@ -7,6 +7,10 @@
 <img src="https://media.giphy.com/media/GfGva4vGq4qNsUf4N9/giphy.gif" width="500" alt="Matrix GIF">
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/X56gv3AGrwOI3VzWwl/giphy.gif" width="500" alt="Blade Runner City">
+</p>
+
 ---
 
 <div align="center">
@@ -115,6 +119,10 @@
 │ TOPOLOGY & GROUP THEORY ████████████████░░░░ 82% │
 └─────────────────────────────────────────────────────────────────┘
 ```
+
+<p align="center">
+<img src="https://media.giphy.com/media/3osxYqNvrl2YaPGLaU/giphy.gif" width="480" alt="Glitch Code Rain">
+</p>
 
 ---
 
@@ -229,6 +237,12 @@
 │ [LAIN]         : "Let's all love Lain." │
 └─────────────────────────────────────────────────────────────────┘
 ```
+
+<p align="center">
+<img src="https://media.giphy.com/media/L0IVExCvYm8Bjs2U0y/giphy.gif" width="240" alt="SAO Kirito Dual Wield">
+<img src="https://media.giphy.com/media/1eUtR2Fc4lLpJcEyqe/giphy.gif" width="240" alt="Edgerunners David Glitch">
+<img src="https://media.giphy.com/media/78sCPOfIAsnbzk3f1D/giphy.gif" width="240" alt="Lain Dance">
+</p>
 
 ---
 
