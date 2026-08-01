@@ -1,83 +1,92 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="780" height="560" viewBox="0 0 780 560" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="780" height="620" viewBox="0 0 780 620" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#10101f"/>
-      <stop offset="100%" stop-color="#0a0a16"/>
+      <stop offset="0%" stop-color="#1a1010"/>
+      <stop offset="100%" stop-color="#0e090a"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#FF2A6D"/>
-      <stop offset="100%" stop-color="#05D9E8"/>
+      <stop offset="0%" stop-color="#FFB300"/>
+      <stop offset="100%" stop-color="#FF3131"/>
     </linearGradient>
   </defs>
 
-  <rect width="780" height="560" fill="url(#bg)"/>
-  <circle cx="716" cy="46" r="70" fill="none" stroke="#1c1c34" stroke-width="1.5" opacity="0.6"/>
-  <circle cx="752" cy="82" r="16" fill="#FF2A6D" opacity="0.25"/>
-  <circle cx="696" cy="96" r="7" fill="#05D9E8" opacity="0.35"/>
+  <rect width="780" height="620" fill="url(#bg)"/>
+  <circle cx="716" cy="46" r="70" fill="none" stroke="#33201e" stroke-width="1.5" opacity="0.6"/>
+  <circle cx="752" cy="82" r="16" fill="#FF3131" opacity="0.25"/>
+  <circle cx="696" cy="96" r="7" fill="#FFB300" opacity="0.35"/>
 
-  <circle cx="72" cy="78" r="44" fill="#1a1a2e" stroke="url(#accent)" stroke-width="2.5"/>
-  <text x="72" y="88" text-anchor="middle" font-size="26" font-weight="700" fill="#FF2A6D">SR</text>
+  <circle cx="72" cy="78" r="54" fill="#FF3131" opacity="0.18">
+    <animate attributeName="opacity" values="0.10;0.35;0.10" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="72" cy="78" r="44" fill="#1f1414" stroke="url(#accent)" stroke-width="2.5"/>
+  <text x="72" y="88" text-anchor="middle" font-size="26" font-weight="700" fill="#FF3131">SR</text>
 
   <text x="136" y="72" font-size="24" font-weight="700" fill="#E6EDF3">Sanyam Rajput</text>
-  <text x="136" y="98" font-size="14" fill="#05D9E8">Computer Science Student </text>
+  <text x="136" y="98" font-size="14" fill="#FFB300">Computer Science Student</text>
 
-  <line x1="60" y1="122" x2="720" y2="122" stroke="#26263e" stroke-width="1"/>
+  <line x1="60" y1="122" x2="720" y2="122" stroke="#33201e" stroke-width="1"/>
 
-  <text x="60" y="148" font-size="12" font-weight="700" letter-spacing="3" fill="#FF2A6D">PROFILE</text>
+  <text x="60" y="148" font-size="12" font-weight="700" letter-spacing="3" fill="#FF3131">PROFILE</text>
+  <rect x="60" y="156" width="46" height="3" rx="1.5" fill="url(#accent)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </rect>
 
   <g font-size="13">
-    <circle cx="66" cy="176" r="4" fill="#05D9E8"/>
-    <text x="82" y="181" fill="#8b8ba7">University</text>
-    <text x="250" y="181" fill="#d1d1e0">DY Patil International University</text>
+    <circle cx="66" cy="184" r="4" fill="#FFB300"/>
+    <text x="82" y="189" fill="#8b8ba7">University</text>
+    <text x="250" y="189" fill="#d1d1e0">DY Patil International University</text>
 
-    <circle cx="66" cy="206" r="4" fill="#05D9E8"/>
-    <text x="82" y="211" fill="#8b8ba7">Location</text>
-    <text x="250" y="211" fill="#d1d1e0">Pune, India</text>
+    <circle cx="66" cy="214" r="4" fill="#FFB300"/>
+    <text x="82" y="219" fill="#8b8ba7">Location</text>
+    <text x="250" y="219" fill="#d1d1e0">Pune, India</text>
 
-    <circle cx="66" cy="236" r="4" fill="#05D9E8"/>
-    <text x="82" y="241" fill="#8b8ba7">GitHub</text>
-    <text x="250" y="241" fill="#d1d1e0">yamsan-00</text>
+    <circle cx="66" cy="244" r="4" fill="#FFB300"/>
+    <text x="82" y="249" fill="#8b8ba7">GitHub</text>
+    <text x="250" y="249" fill="#d1d1e0">yamsan-00</text>
 
-    <circle cx="66" cy="266" r="4" fill="#05D9E8"/>
-    <text x="82" y="271" fill="#8b8ba7">Email</text>
-    <text x="250" y="271" fill="#d1d1e0">sanyamrajput1213@gmail.com</text>
+    <circle cx="66" cy="274" r="4" fill="#FFB300"/>
+    <text x="82" y="279" fill="#8b8ba7">Email</text>
+    <text x="250" y="279" fill="#d1d1e0">sanyamrajput1213@gmail.com</text>
 
-    <circle cx="66" cy="326" r="4" fill="#FFC100"/>
-    <text x="82" y="331" fill="#8b8ba7">Open to Collaboration</text>
-    <text x="250" y="331" font-weight="700" fill="#FFC100">YES</text>
+    <circle cx="66" cy="304" r="4" fill="#FF3131">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="82" y="309" fill="#8b8ba7">Open to Collaboration</text>
+    <text x="250" y="309" font-weight="700" fill="#FFB300">YES</text>
   </g>
 
-  <line x1="60" y1="348" x2="720" y2="348" stroke="#26263e" stroke-width="1"/>
+  <line x1="60" y1="326" x2="720" y2="326" stroke="#33201e" stroke-width="1"/>
 
-  <text x="60" y="374" font-size="12" font-weight="700" letter-spacing="3" fill="#FF2A6D">ACADEMIC INTERESTS</text>
+  <text x="60" y="352" font-size="12" font-weight="700" letter-spacing="3" fill="#FF3131">ACADEMIC INTERESTS</text>
+  <rect x="60" y="360" width="46" height="3" rx="1.5" fill="url(#accent)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </rect>
 
-  <g font-size="13.5" fill="#05D9E8">
-    <rect x="60" y="390" width="196" height="34" rx="17" fill="#1a1a2e" stroke="#2a2a4a"/>
-    <text x="158" y="412" text-anchor="middle">Artificial Intelligence</text>
+  <g font-size="13.5" fill="#FFB300">
+    <rect x="60" y="374" width="196" height="34" rx="17" fill="#1f1414" stroke="#3a2626"/>
+    <text x="158" y="396" text-anchor="middle">Artificial Intelligence</text>
 
-    <rect x="268" y="390" width="156" height="34" rx="17" fill="#1a1a2e" stroke="#2a2a4a"/>
-    <text x="346" y="412" text-anchor="middle">Machine Learning</text>
+    <rect x="268" y="374" width="156" height="34" rx="17" fill="#1f1414" stroke="#3a2626"/>
+    <text x="346" y="396" text-anchor="middle">Machine Learning</text>
 
-    <rect x="436" y="390" width="116" height="34" rx="17" fill="#1a1a2e" stroke="#2a2a4a"/>
-    <text x="494" y="412" text-anchor="middle">Mathematics</text>
+    <rect x="436" y="374" width="116" height="34" rx="17" fill="#1f1414" stroke="#3a2626"/>
+    <text x="494" y="396" text-anchor="middle">Mathematics</text>
 
-    <rect x="564" y="390" width="84" height="34" rx="17" fill="#1a1a2e" stroke="#2a2a4a"/>
-    <text x="606" y="412" text-anchor="middle">Physics</text>
+    <rect x="564" y="374" width="84" height="34" rx="17" fill="#1f1414" stroke="#3a2626"/>
+    <text x="606" y="396" text-anchor="middle">Physics</text>
 
-    <rect x="60" y="436" width="164" height="34" rx="17" fill="#1a1a2e" stroke="#2a2a4a"/>
-    <text x="142" y="458" text-anchor="middle">Quantum Computing</text>
+    <rect x="60" y="420" width="164" height="34" rx="17" fill="#1f1414" stroke="#3a2626"/>
+    <text x="142" y="442" text-anchor="middle">Quantum Computing</text>
 
-    <rect x="236" y="436" width="124" height="34" rx="17" fill="#1a1a2e" stroke="#2a2a4a"/>
-    <text x="298" y="458" text-anchor="middle">Graph Theory</text>
+    <rect x="236" y="420" width="124" height="34" rx="17" fill="#1f1414" stroke="#3a2626"/>
+    <text x="298" y="442" text-anchor="middle">Graph Theory</text>
 
-    <rect x="372" y="436" width="116" height="34" rx="17" fill="#1a1a2e" stroke="#2a2a4a"/>
-    <text x="430" y="458" text-anchor="middle">Open Source</text>
+    <rect x="372" y="420" width="116" height="34" rx="17" fill="#1f1414" stroke="#3a2626"/>
+    <text x="430" y="442" text-anchor="middle">Open Source</text>
 
-    <rect x="500" y="436" width="92" height="34" rx="17" fill="#1a1a2e" stroke="#2a2a4a"/>
-    <text x="546" y="458" text-anchor="middle">Research</text>
+    <rect x="500" y="420" width="92" height="34" rx="17" fill="#1f1414" stroke="#3a2626"/>
+    <text x="546" y="442" text-anchor="middle">Research</text>
   </g>
 
-  <rect x="80" y="480" width="620" height="64" rx="12" fill="#121222" stroke="#2a2a4a" stroke-width="1.5" stroke-dasharray="8 6"/>
-  <text x="390" y="511" text-anchor="middle" font-size="12" letter-spacing="3" fill="#4a4a66">GIF PLACEHOLDER</text>
-  <text x="390" y="530" text-anchor="middle" font-size="10" letter-spacing="1" fill="#3a3a55">480 x 270</text>
+  <image x="80" y="492" width="620" height="112" preserveAspectRatio="xMidYMid slice" href="https://media.giphy.com/media/tpDakaomA3IpghvDJk/giphy.gif"/>
 </svg>
