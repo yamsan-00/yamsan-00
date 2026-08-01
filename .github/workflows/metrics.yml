@@ -15,12 +15,12 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: true
           base_hireable: true
-          base_skip_archived: true
+          base_skip: archived
           config_timezone: Asia/Kolkata
-          isocalendar: yes
-          isocalendar_duration: full-year
-          topics: yes
-          topics_limit: 15
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_topics: yes
+          plugin_topics_limit: 15
 
       - uses: lowlighter/metrics@latest
         with:
@@ -100,4 +100,3 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_stars_user: yamsan-00
