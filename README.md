@@ -12,6 +12,22 @@
 <div align="center">
 
 ```bash
+┌──[lain@the-wired:~]──[~/combat]
+└─$ ./launch_shooter.exe --enemy-graph=contributions
+
+```
+
+</div>
+
+<p align="center">
+<img src="game.gif" alt="GitHub Space Shooter" />
+</p>
+
+---
+
+<div align="center">
+
+```bash
 ┌──[lain@the-wired:~]──[~/identity]
 └─$ whoami
 
