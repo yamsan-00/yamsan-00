@@ -6,6 +6,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=Initializing+NAVI...;Connecting+to+The+Wired...;Synchronizing+Layer+01...;Protocol+7+Engaged...;PRESENT+DAY+PRESENT+TIME" alt="Lain Boot Sequence" />
 </p>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dqanFyeWJlNGZ3cTE1d21tMGsxajVra3ZibzJ2ZGNuNmlrNHFmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/40Lp2KJ5zagkjrnp7h/giphy.gif" width="200" alt="GIF 1">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGh3cjBxOHR6OWQ0MDl0dGY1MHRwMXg4eHRoYm9wZDBocXpsYmZ4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHBGehJ3FSZEygszX3/giphy.gif" width="200" alt="GIF 2">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl0ZGplczJlOW93cGMyajVwcHZocmNpcnNmcnpnYXJ6ajZ1ZnkyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xg2jowPlHhIp4koVAm/giphy.gif" width="200" alt="GIF 3">
+</p>
+
+<p align="center">
+  <a href="https://tenor.com/view/quantum-processing-gd-geometry-dash-gif-21043900">
+    <img src="https://media.tenor.com/DHBGehJ3FSZEygszX3/quantum-processing.gif" width="300" alt="Quantum Processing GD">
+  </a>
+</p>
+
 ---
 
 <div align="center">
@@ -13,6 +25,7 @@
 ```bash
 ┌──[lain@the-wired:~]──[~/identity]
 └─$ whoami
+
 ```
 
 </div>
