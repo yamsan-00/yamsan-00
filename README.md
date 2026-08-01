@@ -4,7 +4,7 @@
 **B.Tech CSE (AIML) | Quantum Computing Researcher**
 
 <p align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dqanFyeWJlNGZ3cTE1d21tMGsxajVra3ZibzJ2ZGNuNmlrNHFmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/40Lp2KJ5zagkjrnp7h/giphy.gif" width="500" alt="GIF 1">
+<img src="https://media.giphy.com/media/GfGva4vGq4qNsUf4N9/giphy.gif" width="500" alt="Matrix GIF">
 </p>
 
 ---
