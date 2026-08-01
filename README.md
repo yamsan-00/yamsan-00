@@ -7,8 +7,6 @@
 <img src="https://media.giphy.com/media/GfGva4vGq4qNsUf4N9/giphy.gif" width="500" alt="Matrix GIF">
 </p>
 
-
-
 ---
 
 <div align="center">
@@ -51,6 +49,18 @@
 ---
 <p align="center">
 <img src="https://media.giphy.com/media/X56gv3AGrwOI3VzWwl/giphy.gif" width="500" alt="Blade Runner City">
+</p>
+<p align="center">
+<img src="https://media.giphy.com/media/A9Lbvgza45YFgY3DM0/giphy.gif" width="500" alt="Neon Lights Cyberpunk">
+</p>
+<p align="center">
+<img src="https://media.giphy.com/media/VhU7ZBxxijYD9skPns/giphy.gif" width="500" alt="Neon Glow City">
+</p>
+<p align="center">
+<img src="https://media.giphy.com/media/K3FuGJK1NSXSuOzntN/giphy.gif" width="500" alt="Outrun City Lights">
+</p>
+<p align="center">
+<img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.gif" width="500" alt="Matrix Binary Code">
 </p>
 ---
 
@@ -245,6 +255,12 @@
 <img src="https://media.giphy.com/media/L0IVExCvYm8Bjs2U0y/giphy.gif" width="240" alt="SAO Kirito Dual Wield">
 <img src="https://media.giphy.com/media/1eUtR2Fc4lLpJcEyqe/giphy.gif" width="240" alt="Edgerunners David Glitch">
 <img src="https://media.giphy.com/media/78sCPOfIAsnbzk3f1D/giphy.gif" width="240" alt="Lain Dance">
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/74n3j1p7vp6oAXteal/giphy.gif" width="240" alt="SAO Fighting">
+<img src="https://media.giphy.com/media/gz6J4jH7HR6q0jJK5d/giphy.gif" width="240" alt="Edgerunners Angry David">
+<img src="https://media.giphy.com/media/zjYlBypzr6bVU0hpC3/giphy.gif" width="240" alt="Lain Wired">
 </p>
 
 ---
