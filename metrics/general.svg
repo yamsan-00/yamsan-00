@@ -64,11 +64,6 @@
   </rect>
 
   <g font-size="13.5" fill="#FFB300">
-    <rect x="60" y="374" width="196" height="34" rx="17" fill="#1f1414" stroke="#3a2626"/>
-    <text x="158" y="396" text-anchor="middle">Artificial Intelligence</text>
-
-    <rect x="268" y="374" width="156" height="34" rx="17" fill="#1f1414" stroke="#3a2626"/>
-    <text x="346" y="396" text-anchor="middle">Machine Learning</text>
 
     <rect x="436" y="374" width="116" height="34" rx="17" fill="#1f1414" stroke="#3a2626"/>
     <text x="494" y="396" text-anchor="middle">Mathematics</text>
@@ -79,14 +74,11 @@
     <rect x="60" y="420" width="164" height="34" rx="17" fill="#1f1414" stroke="#3a2626"/>
     <text x="142" y="442" text-anchor="middle">Quantum Computing</text>
 
-    <rect x="236" y="420" width="124" height="34" rx="17" fill="#1f1414" stroke="#3a2626"/>
-    <text x="298" y="442" text-anchor="middle">Graph Theory</text>
-
-    <rect x="372" y="420" width="116" height="34" rx="17" fill="#1f1414" stroke="#3a2626"/>
-    <text x="430" y="442" text-anchor="middle">Open Source</text>
-
     <rect x="500" y="420" width="92" height="34" rx="17" fill="#1f1414" stroke="#3a2626"/>
     <text x="546" y="442" text-anchor="middle">Research</text>
+    
+    <rect x="268" y="374" width="156" height="34" rx="17" fill="#1f1414" stroke="#3a2626"/>
+    <text x="346" y="396" text-anchor="middle">Machine Learning</text>
   </g>
 
   <line x1="60" y1="470" x2="720" y2="470" stroke="#33201e" stroke-width="1"/>
